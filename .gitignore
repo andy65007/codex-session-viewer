@@ -1,0 +1,5 @@
+# Codex exports can contain prompts, source excerpts, and tool output.
+codex-session-*.md
+*.assistant.md
+*.activity.md
+*.user.md
